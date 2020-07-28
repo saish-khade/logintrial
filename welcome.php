@@ -13,6 +13,7 @@ check_login();
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link href="https://www.w3schools.com/lib/w3.css" rel="stylesheet">
     <meta name="description" content="">
     <meta name="author" content="">
 
