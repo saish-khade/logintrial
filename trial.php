@@ -5,6 +5,8 @@
       <meta charset="utf-8">  
       <title>FDP</title>
       <link href="style2.css" rel="stylesheet" type="text/css">
+	   <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link href="https://www.w3schools.com/lib/w3.css" rel="stylesheet">
       <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 	   <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.7.1/css/bootstrap-datepicker3.css" rel="stylesheet" id="bootstrap-css">
 	   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
