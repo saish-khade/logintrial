@@ -78,10 +78,11 @@ check_login();
             <a href="trial.php" class="btn btn-primary">Publication</a>
             </p> 
             <br>
+	    <p align="center"><a  href="logout.php">Logout</a></p>
         </header>
         <br>
         <hr>
-        <br>
+        
          <div class="well hero-spacer">
          <p class="last" align="center">&copy;Copyright 2020 saishkhade@gmail.com</p>
          </div>
